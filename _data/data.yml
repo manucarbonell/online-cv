@@ -150,7 +150,7 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
-        link: "#"
+        link: "https://raw.githubusercontent.com/manucarbonell/online-cv/master/assets/pdfs/icpr2020.pdf"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
