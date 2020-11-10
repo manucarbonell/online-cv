@@ -14,48 +14,47 @@ sidebar:
     # Sidebar links
     email: manuel.carbonell.nunez@gmail.com
     phone: 
-    website: manucarbonell.github.io #do not add http://
+    website: manucarbonell.github.io/online-cv #do not add http://
     linkedin: mcarbonellnunez
     github: manucarbonell
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Catalan
+        level: Native
 
-      - idiom: Spanish
+      - idiom: English
+        level: Fluent 
+
+      - idiom: German
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Music
         link:
 
-      - item: Snowboarding
+      - item: Skiing
         link:
 
-      - item: Cooking
+      - item: Chess
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a PhD candidate in Deep Learning for information extraction from semi-structured documents at the Computer Vision Center of Barcelona.
+
 education:
-    - degree: MSc in Computer Science
+    - degree: MSc in Modeling for Science and Engineering
       university: University of London
       time: 2011 - 2012
       details: |
